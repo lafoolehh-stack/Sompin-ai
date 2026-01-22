@@ -1,0 +1,7 @@
+{
+  "name": "Somalipin AI Engine",
+  "description": "A professional AI-powered tool to extract profile information from images and format them into the official Somalipin Profile Template in Somali.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
